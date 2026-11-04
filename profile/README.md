@@ -1,4 +1,4 @@
-[英文](./README.en.md)
+[英文](./README.en.md)  [繁体中文](./README.zh-TW.md)
 
 # FreeLog
 
@@ -34,4 +34,5 @@ CLI 的命令行特性天然适合被脚本或 AI Agent 调用。你可以在 Ag
 - 提交 Issue 或 Pull Request
 - 通过组织页面联系维护者
 - 地址：深圳市南山区桃源街道平山社区留仙大道4168号众冠时代广场A座
+- 网址：https://freelog.cn
 
